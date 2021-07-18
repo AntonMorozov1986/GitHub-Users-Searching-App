@@ -38,7 +38,8 @@ module.exports = {
   plugins: [
     new VueLoaderPlugin(),
     new HtmlWebpackPlugin({
-      template: "index.html"
+      template: "index.html",
+      title: "Search GitHub Users"
     })
   ]
 };

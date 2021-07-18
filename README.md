@@ -1,2 +1,7 @@
 # GitHub Users Searching App
- Application for searching users on GitHub
+
+_Application for searching users on GitHub_
+
+npm install
+
+npm run build
